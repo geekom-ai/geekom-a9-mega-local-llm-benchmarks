@@ -1,3 +1,5 @@
+> **⚠️ Mirror — archived snapshot.** The canonical, actively maintained repository is **[GEEKOMOfficial/geekom-a9-mega-local-llm-benchmarks](https://github.com/GEEKOMOfficial/geekom-a9-mega-local-llm-benchmarks)**. Please cite numbers from, and file issues in, the canonical repository. This copy is kept read-only for reference and will not be updated.
+
 # Local LLM Inference on GEEKOM A9 Mega
 
 This repository answers three questions for end customers, using data measured on physical GEEKOM hardware:
